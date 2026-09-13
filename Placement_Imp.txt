@@ -1,0 +1,124 @@
+1 Arrays
+  
+| # | HackerRank Problem        | Level  | Main concept       |
+| - | ------------------------- | ------ | ------------------ |
+| 1 | **2D Array - DS**         | Easy   | 2D array           |
+| 2 | **Arrays: Left Rotation** | Easy   | Array manipulation |
+| 3 | **Sparse Arrays**         | Medium | HashMap            |
+| 4 | **New Year Chaos**        | Medium | Array + counting   |
+| 5 | **Minimum Swaps 2**       | Medium | Array / cycles     |
+| 6 | **Array Manipulation**    | Hard   | Prefix sum         |
+
+2  HashMap / HashSet
+
+  | #  | Problem                      | Concept           |
+| -- | ---------------------------- | ----------------- |
+| 7  | **Hash Tables: Ransom Note** | HashMap           |
+| 8  | **Two Strings**              | HashSet           |
+| 9  | **Frequency Queries**        | HashMap           |
+| 10 | **Count Triplets**           | HashMap           |
+| 11 | **Sherlock and Anagrams**    | HashMap + Strings |
+
+
+ 3 Strings
+
+  | #  | Problem                           | Concept               |
+| -- | --------------------------------- | --------------------- |
+| 12 | **Making Anagrams**               | Frequency counting    |
+| 13 | **Alternating Characters**        | String traversal      |
+| 14 | **Sherlock and the Valid String** | Frequency             |
+| 15 | **Common Child**                  | Dynamic Programming   |
+| 16 | **Java Anagrams**                 | Java String / sorting |
+
+  4  — Sorting
+
+  | #  | Problem                               | Concept                   |
+| -- | ------------------------------------- | ------------------------- |
+| 17 | **Java Sort**                         | Comparator                |
+| 18 | **Big Sorting**                       | Sorting                   |
+| 19 | **Counting Sort 1**                   | Counting                  |
+| 20 | **Mark and Toys**                     | Sorting + Greedy          |
+| 21 | **Fraudulent Activity Notifications** | Counting / sliding window |
+
+  5 Stack / Queue
+
+  | #  | Problem                          | Concept         |
+| -- | -------------------------------- | --------------- |
+| 22 | **Balanced Brackets**            | Stack           |
+| 23 | **Queue using Two Stacks**       | Stack + Queue   |
+| 24 | **Largest Rectangle**            | Monotonic Stack |
+| 25 | **Min Max Riddle**               | Stack           |
+| 26 | **Queues: A Tale of Two Stacks** | Queue           |
+
+  6 — Linked List
+
+  | #  | Problem                                 | Concept           |
+| -- | --------------------------------------- | ----------------- |
+| 27 | **Print the Elements of a Linked List** | Traversal         |
+| 28 | **Insert a Node at the Tail**           | Linked List       |
+| 29 | **Reverse a Linked List**               | Important         |
+| 30 | **Merge two sorted linked lists**       | Two pointers      |
+| 31 | **Linked Lists: Detect a Cycle**        | Fast/slow pointer |
+| 32 | **Find Merge Point of Two Lists**       | Two pointers      |
+
+
+   7 — Searching / Two Pointers
+
+  | #  | Problem                           | Concept                 |            
+| -- | --------------------------------- | ----------------------- |
+| 33 | **Ice Cream Parlor**              | HashMap                 |
+| 34 | **Pairs**                         | Two pointers / HashSet  |
+| 35 | **Triple Sum**                    | Sorting + binary search |
+| 36 | **Minimum Time Required**         | Binary Search           |
+| 37 | **Hash Tables: Ice Cream Parlor** | HashMap                 |
+
+  8--greedy
+
+| #  | Problem                                     | Concept                  |
+| -- | ------------------------------------------- | ------------------------ |
+| 38 | **Luck Balance**                            | Greedy                   |
+| 39 | **Greedy Florist**                          | Greedy + Sorting         |
+| 40 | **Max Min**                                 | Sorting + Sliding Window |
+| 41 | **Minimum Absolute Difference in an Array** | Sorting                  |
+| 42 | **Permuting Two Arrays**                    | Sorting + Greedy         |
+
+9 — Trees
+
+| #  | Problem                                         | Concept   |
+| -- | ----------------------------------------------- | --------- |
+| 43 | **Tree: Preorder Traversal**                    | DFS       |
+| 44 | **Tree: Inorder Traversal**                     | DFS       |
+| 45 | **Tree: Postorder Traversal**                   | DFS       |
+| 46 | **Tree: Height of a Binary Tree**               | Recursion |
+| 47 | **Tree: Lowest Common Ancestor**                | Tree      |
+| 48 | **Binary Search Tree : Lowest Common Ancestor** | BST       |
+
+
+10 — Dynamic Programming
+
+
+| #  | Problem               | Concept |
+| -- | --------------------- | ------- |
+| 49 | **Max Array Sum**     | 1D DP   |
+| 50 | **Abbreviation**      | DP      |
+| 51 | **Candies**           | DP      |
+| 52 | **Common Child**      | LCS     |
+| 53 | **Sherlock and Cost** | DP      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
